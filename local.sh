@@ -1,0 +1,1 @@
+clear; go build; ./aws-models; rm -f aws-models
